@@ -1,0 +1,10 @@
+{
+  "name": "iso-to-lang",
+  "main": "isoToLang.js",
+  "authors": [
+    "Anatoly Mironov (mirontoli)"
+  ],
+  "description": "iso-to-lang",
+  "license": "MIT",
+  "homepage": "http://sharepointkunskap.wordpress.com"
+}

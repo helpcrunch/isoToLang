@@ -789,6 +789,7 @@
   };
 
   window.isoLib = {
+    isoCodes: isoLangs,
     getIsoCodes: getIsoCodes,
     getLanguageName: getLanguageName,
     getLanguageNativeName: getLanguageNativeName,

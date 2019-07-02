@@ -1,5 +1,5 @@
 ## ISO to language
 
-Small script library.  
+Small JS library.  
 Can tell you language by it's code and backwards.  
 Used in HelpCrunch service and widget.  

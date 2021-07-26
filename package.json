@@ -1,0 +1,24 @@
+{
+  "name": "iso-to-lang",
+  "version": "1.0.0",
+  "description": "Can tell you language by it's ISO code and backwards",
+  "main": "isoToLang.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpcrunch/isoToLang.git"
+  },
+  "keywords": [
+    "iso",
+    "language",
+    "list"
+  ],
+  "author": "Anatoly Mironov (mirontoli)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helpcrunch/isoToLang/issues"
+  },
+  "homepage": "https://github.com/helpcrunch/isoToLang#readme"
+}

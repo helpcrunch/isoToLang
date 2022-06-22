@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helpcrunch/isoToLang.git"
+    "url": "https://github.com/helpcrunch/isoToLang.git"
   },
   "keywords": [
     "iso",
